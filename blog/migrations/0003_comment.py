@@ -8,7 +8,7 @@ import django.utils.timezone
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('blog', '0002_rename_artile_article'),
+        ('blog', '0001_initial'),
     ]
 
     operations = [
